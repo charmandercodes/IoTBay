@@ -1,3 +1,1 @@
-# IoTBay
-##Testing
-omg slay
+# django-starter
